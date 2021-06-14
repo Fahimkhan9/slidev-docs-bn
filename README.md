@@ -1,8 +1,8 @@
 # [sli.dev](https://sli.dev)
 
-Documentation for [Slidev](https://github.com/slidevjs/slidev)
+Slidev এর  ডকুমেন্টেশন  [Slidev](https://github.com/slidevjs/slidev)
 
-## Translations
+## অনুবাদ সমূহ 
 
 | | Repo | Site | Maintainers |
 |---|---|---:|---|
@@ -22,10 +22,10 @@ pnpm i
 pnpm run dev
 ```
 
-And then visit `http://localhost:3000`
+এবং  ভিজিট  করুন `http://localhost:3000`
 
-Or install the [Vite extension for VS Code](https://marketplace.visualstudio.com/items?itemName=antfu.vite) to edit side-by-side.
+অথবা  ইনস্টল করুন [Vite extension for VS Code](https://marketplace.visualstudio.com/items?itemName=antfu.vite) পাশাপাশি  দেখার  জন্য 
 
-## Help on Translating
+## অনুবাদ  করতে সাহায্য করুন 
 
 See [TRANSLATIONS.md](/TRANSLATIONS.md)
